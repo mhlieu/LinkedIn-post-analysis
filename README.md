@@ -21,7 +21,7 @@ Views and likes over time, including those for outlier posts, can be seen below.
 
 ![](LinkedIn-post-analysis/All views.png)
 
-![](LinkedIn-post-analysis/All likes.png)
+![](https://github.com/mhlieu/LinkedIn-post-analysis/blob/10f1cfba32c82719c950920c27fbe2a261a9d6a2/All%20likes.png)
 
 Thus, views over time excluding outliers is much more informative:
 
